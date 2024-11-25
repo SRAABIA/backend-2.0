@@ -9,4 +9,8 @@
   - how to get data from FE at backend route
   - setting up parsers for form
   - setting up EJS for EJS pages
+    - npm i ejs
+    - setting up ejs as a view engine
+    - make views folder
   - setting up public static files
+    - to use images, CSS, Vanilla JS
