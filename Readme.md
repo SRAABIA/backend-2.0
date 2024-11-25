@@ -14,3 +14,4 @@
     - make views folder
   - setting up public static files
     - to use images, CSS, Vanilla JS
+- `git rm -r --cached node_modules` to remove node moddules
